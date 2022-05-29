@@ -11,7 +11,6 @@ export function FeedbackTypeStep({
     <>
       <header>
         <span className='text-xl leading-6'>Deixe seu feedback</span>
-
         <CloseButton />
       </header>
 
