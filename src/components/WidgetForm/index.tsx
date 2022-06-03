@@ -38,7 +38,6 @@ export default function WidgetForm() {
 
   function handleRetartFeedBack() {
     setFeedbackTypes(null);
-
   }
 
   return (
